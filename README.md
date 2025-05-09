@@ -8,10 +8,15 @@ Note: Need to add minor inputs in script like file name.
 The input should be the output of the admixture analysis with sample names in the first column as below
 
 A78 0.999980 0.000010 0.000010
+
 B06 0.999980 0.000010 0.000010
+
 F55 0.999980 0.000010 0.000010
+
 I53 0.999980 0.000010 0.000010
+
 K86 0.999980 0.000010 0.000010
+
 B43 0.999973 0.000017 0.000010
 
 # Output
